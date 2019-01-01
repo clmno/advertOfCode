@@ -1,0 +1,1 @@
+/home/clament/Personal/rust/adventOfCode/2018/day2_Inventory_Management_System/target/debug/day2_Inventory_Management_System: /home/clament/Personal/rust/adventOfCode/2018/day2_Inventory_Management_System/src/main.rs
